@@ -10,6 +10,7 @@
 
 <body>
     <h1>Contoh Git Remote II</h1>
+    <h2>Example Paragraph</h2>
     <p>Hello World</p>
 </body>
 
